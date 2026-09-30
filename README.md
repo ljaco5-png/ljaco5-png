@@ -114,5 +114,5 @@ I'm interested in software engineering, machine learning, data, and related tech
 
 ## Connect With Me
 
-**LinkedIn:** Add your LinkedIn URL here  
+**LinkedIn:** [linkedin.com/in/luke-jacob](https://www.linkedin.com/in/luke-jacob-a80948263)  
 **GitHub:** [github.com/ljaco5-png](https://github.com/ljaco5-png)
